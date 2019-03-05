@@ -9,7 +9,7 @@
 
 	<name>popper.js</name>
 	<artifactId>webjar-popperjs</artifactId>
-	<version>1.14.4-1-SNAPSHOT</version>
+	<version>1.14.7-SNAPSHOT</version>
 	<description>popper.js Library.</description>
 
 	<properties>
