@@ -43,7 +43,7 @@
 						<configuration>
 							<target>
 								<copy todir="${webjar.target}">
-									<fileset dir="${src.rootdir}/node_modules/popper.js" includes="README.md,dist/**" />
+									<fileset dir="${src.rootdir}/node_modules/popper.js" includes="README.md,dist/" />
 								</copy>
 							</target>
 						</configuration>

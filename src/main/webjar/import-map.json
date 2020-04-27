@@ -1,5 +1,5 @@
 {
-  "imports": {
+  "paths": {
     "popper.js": "dist/umd/popper.js"
   }
 }
