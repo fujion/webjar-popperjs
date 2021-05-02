@@ -3,6 +3,6 @@
   "version": "${version.unrevise}",
   "description": "${project.description}",
   "dependencies": {
-    "popper.js": "${version.unrevise}"
+    "@popperjs/core": "${version.unrevise}"
     }
 }
